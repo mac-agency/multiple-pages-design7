@@ -1,0 +1,4413 @@
+{
+  "settings": {
+    "name": "multiple-design7-m-car_repair",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.3",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/apple-touch-icon-180x180-128x128.png",
+    "noImageResize": "",
+    "siteUrl": "undefined",
+    "uniqCompNum": 94,
+    "versionPublish": "4.10.4",
+    "screenshot": "screenshot.png",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "トップページ　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。トップページをご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/11-1000x667.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Keep your car clean<br>ポリマーワックス",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "愛車がいつもきれいだと気持ちいいですね",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/50-1000x667.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Maintenance of YOUR CAR&nbsp;",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "愛車の調子はいかがですか？",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/43-1000x678.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Maintenance of YOUR CAR&nbsp;",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "ちょっとした普段のメンテナンスが大事です",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/14042-1000x667.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Maintenance of YOUR CAR&nbsp;",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "信頼できる自動車修理工場でありたい。",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/280-600x450.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1059-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/504-600x397.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "当工場のサービス",
+          "subtitle": "サブタイトルが入ります",
+          "title1": "車検",
+          "subtitle1": "サブコピーが入ります",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "修理・整備",
+          "subtitle2": "サブコピーが入ります",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "ポリマーワックス",
+          "subtitle3": "サブコピーが入ります",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-2k"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": " 整備",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/50-1-1000x667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/50-1-1000x667-800x450.jpg",
+                "alt": "整備は当社で",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "お手入れ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/43-1-1000x678.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/43-1-1000x678-800x450.jpg",
+                "alt": "普段のお手入れで大切なオイル交換",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "お手入れ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/366-1000x667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/366-1000x667-800x450.jpg",
+                "alt": "タイヤのコンデションを確認",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ポリマーワックス",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/477-1-1000x662.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/477-1-1000x662-800x450.jpg",
+                "alt": "いつまでもきれいなポリマーワックス",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "洗車",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2072-1000x668.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2072-1000x668-800x450.jpg",
+                "alt": "愛車の高圧洗浄",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "洗車",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/11-1-1000x667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-1-1000x667-800x450.jpg",
+                "alt": "愛車をきれいにシャンプー",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "整備",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/269-1-1000x665.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/269-1-1000x665-800x450.jpg",
+                "alt": "ボンネットを開けての通常点検",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "お手入れ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/581-1000x667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/581-1000x667-800x450.jpg",
+                "alt": "タイヤの空気入れ",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "よくあるご質問",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-8\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Q：車検はいつくらいからやってくれますか？</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-8\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Q：よくあるご質問はないですか？</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-8\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Q：よくあるご質問はないですか？</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>A：基本的に車検満了日の1ヶ月前から承っております。ぜひ、早めにご予約くださいませ。</p>",
+          "text2": "<p>A：質問に対する答えが入ります。質問に対する答えが入ります。質問に対する答えが入ります。</p>",
+          "text3": "<p>A：質問に対する答えが入ります。質問に対する答えが入ります。質問に対する答えが入ります。</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-8"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "交通",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-i"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51727.60221026994!2d139.6157271211328!3d35.87412611818977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c034b11a9cb9%3A0xfb8140f8804e1a86!2z5Z-8546J55yM44GV44GE44Gf44G-5biC5rWm5ZKM5Yy6!5e0!3m2!1sja!2sjp!4v1561714425855!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-g"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-10\">\n      <table class=\"table\">\n  \n  <tbody>\n    <tr>\n      <th class=\"table_width20\">電車のご利用</th>\n      <td class=\"text-left\">お知らせ内容が入ります。お知らせ内容が入ります。お知らせ内容が入ります。</td>\n      \n    </tr>\n    <tr>\n      <th>車のご利用</th>\n      <td class=\"text-left\">お知らせ内容が入ります。お知らせ内容が入ります。お知らせ内容が入ります。</td>\n      \n    </tr>\n    <tr>\n      <th>駐車場について</th>\n      <td class=\"text-left\">お知らせ内容が入ります。お知らせ内容が入ります。お知らせ内容が入ります。</td>\n      \n    </tr>\n  </tbody>\n</table>\n    </div>\n    \n  </div>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 50px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\n.table_width20 {\n  width: 20%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2019 Supported by <a href=\"https://www.mac-agency.com/\" target=\"_blank\">Mac-Agency</a> - All Rights Reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2l"
+        }
+      ]
+    },
+    "syaken.html": {
+      "settings": {
+        "title": "車検　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。車検についてご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "animText1": "早めのご予約を",
+            "animText2": "当工場へご用命ください。",
+            "animText3": "",
+            "typeSpeed": "80",
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14594-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
+          },
+          "title": "車検は",
+          "text": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box2",
+          "_anchor": "extMsg-box2-14",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "当社の車検",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pixta-18351205-l-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "早期ご予約特典",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/6496-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "整備箇所は保証付き",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/366-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "6ヶ月後の点検無料",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/117-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "事前お見積り無料",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "早期ご予約特典",
+          "subtitle1": "平素よりの点検が大切です",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "整備箇所は保証付き",
+          "subtitle2": "法定車検を承っています",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "6ヶ月後の点検無料",
+          "subtitle3": "いつもきれいな愛車はポリマーワックスで",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "事前お見積り無料",
+          "subtitle4": "グレードアップのご相談も承っています",
+          "caption4": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "features3-p"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-price-term": {
+              "font-size": "15px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "More details",
+          "description2": "More details",
+          "description3": "More details",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "車検価格表",
+          "subtitle": "不明な点はお気軽にお問合せください",
+          "title1": "軽自動車",
+          "title2": "小型乗用車",
+          "title3": "中型自動車",
+          "title4": "大型乗用車",
+          "subtitle1": "ミラ・ワゴンRなど",
+          "subtitle2": "ヴィッツ・マーチなど",
+          "subtitle3": "カローラ・ストリームなど",
+          "subtitle4": "クラウン・セレナなど",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "¥",
+          "currency2": "¥",
+          "currency3": "¥",
+          "currency4": "¥",
+          "price1": "59,770",
+          "price2": "70,430",
+          "price3": "78,630",
+          "price4": "86,830",
+          "period1": "税込",
+          "period2": "税込",
+          "period3": "税込",
+          "period4": "税込",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">自賠責保険：25,070円</li><li class=\"list-group-item\">重量税：6,600円</li><li class=\"list-group-item\">印紙・証紙代：1,100円</li><li class=\"list-group-item\">車検基本料：17,200円</li><li class=\"list-group-item\">法定点検料：9,800円</li><li class=\"list-group-item\">事務手数料：0円</li><li class=\"list-group-item\">その他修理費用：お知らせ</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">自賠責保険：25,830円</li><li class=\"list-group-item\">重量税：16,400円</li><li class=\"list-group-item\">印紙・証紙代：1,200円</li><li class=\"list-group-item\">車検基本料：17,200円</li><li class=\"list-group-item\">法定点検料：9,800円</li><li class=\"list-group-item\">事務手数料：0円</li><li class=\"list-group-item\">その他修理費用：お知らせ</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">自賠責保険：25,830円</li><li class=\"list-group-item\">重量税：24,600円</li><li class=\"list-group-item\">印紙・証紙代：1,200円</li><li class=\"list-group-item\">車検基本料：17,200円</li><li class=\"list-group-item\">法定点検料：9,800円</li><li class=\"list-group-item\">事務手数料：0円</li><li class=\"list-group-item\">その他修理費用：お知らせ</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">自賠責保険：25,830円</li><li class=\"list-group-item\">重量税：32,800円</li><li class=\"list-group-item\">印紙・証紙代：1,200円</li><li class=\"list-group-item\">車検基本料：17,200円</li><li class=\"list-group-item\">法定点検料：9,800円</li><li class=\"list-group-item\">事務手数料：0円</li><li class=\"list-group-item\">その他修理費用：お知らせ</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-q"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "tabs": "3",
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extTabs2_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7f7f7",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.2
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6480-1-1000x667.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH FORM",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND</a>",
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs2-9\" aria-expanded=\"true\">Responsive</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs2-9\" aria-expanded=\"false\">Creative</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs2-9\" aria-expanded=\"false\">Animated</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs2-9\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs2-9\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs2-9\">Beautiful</a></li>",
+          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
+          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTabs2",
+          "_anchor": "extTabs2-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-13"
+        }
+      ]
+    },
+    "car-repair.html": {
+      "settings": {
+        "title": "各種修理　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。各種修理についてご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14594-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "車検は早めのご予約を",
+            "bgTextStyle": "Lora",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "修理",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1024-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "事故車修理",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "板金塗装",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x402.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "各種修理",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "各種修理",
+          "subtitle": "様々な自動車修理に対応しています。お気軽に音合わせください。",
+          "title1": "事故車修理",
+          "subtitle1": "思わぬ事故修理はお任せください",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "板金塗装",
+          "subtitle2": "板金塗装でまるで新車のように",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "各種修理",
+          "subtitle3": "様々な修理やチューンナップにも対応しています",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-1e"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#8c8c8c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/2036-1000x666.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "car-2",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "car-3",
+              "family": "iconsMind",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "car-1",
+              "family": "icon54",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "maps-directions-car",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "様々な修理に対応",
+          "subtitle": "サブコピーが入ります",
+          "feature_title1": "ボディ修理",
+          "feature_subtitle1": "Creative and intelligent solutions",
+          "feature_text1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "feature_title2": "内燃機関修理",
+          "feature_subtitle2": "High resolution screens friendly",
+          "feature_text2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "動力系以外の修理",
+          "feature_subtitle4": "Suits well all devices and screen sizes",
+          "feature_text4": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "feature_title5": "室内の修理",
+          "feature_subtitle5": "Elaborated code and trendy design",
+          "feature_text5": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-1f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1c"
+        }
+      ]
+    },
+    "faq.html": {
+      "settings": {
+        "title": "よくあるご質問　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。よくあるご質問をご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14594-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "車検は早めのご予約を",
+            "bgTextStyle": "Lora",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "FAQ",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "よくあるご質問",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-8\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Q：車検はいつくらいからやってくれますか？</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-8\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Q：よくあるご質問はないですか？</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-8\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Q：よくあるご質問はないですか？</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>A：基本的に車検満了日の1ヶ月前から承っております。ぜひ、早めにご予約くださいませ。</p>",
+          "text2": "<p>A：質問に対する答えが入ります。質問に対する答えが入ります。質問に対する答えが入ります。</p>",
+          "text3": "<p>A：質問に対する答えが入ります。質問に対する答えが入ります。質問に対する答えが入ります。</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-1l"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1k"
+        }
+      ]
+    },
+    "wax.html": {
+      "settings": {
+        "title": "ポリマーワックス　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。ポリマーワックスについてご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14594-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "車検は早めのご予約を",
+            "bgTextStyle": "Lora",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "ポリマーワックス",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1o"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4245-2-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/11-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/477-3-600x397.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "愛車にポリマーワックス",
+          "subtitle": "サブタイトルが入ります",
+          "title1": "高圧洗浄",
+          "subtitle1": "サブコピーが入ります",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "シャンプー洗浄",
+          "subtitle2": "サブコピーが入ります",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "精密ワックス",
+          "subtitle3": "サブコピーが入ります",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-1t"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-price-term": {
+              "font-size": "15px"
+            },
+            ".mbr-plan-title": {
+              "font-size": "16px"
+            },
+            ".mbr-plan-price-desc": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "撥水期間：約1ヶ月",
+          "description2": "撥水期間：約6ヶ月",
+          "description3": "撥水期間：12ヶ月",
+          "description4": "More details",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "ワックス価格表",
+          "subtitle": "不明な点はお気軽にお問合せください",
+          "title1": "Light Wax",
+          "title2": "<div>Regular Wax<br></div>",
+          "title3": "Premium Wax",
+          "title4": "大型乗用車",
+          "subtitle1": "お手軽なワックス",
+          "subtitle2": "通常おすすめのワックス",
+          "subtitle3": "特別なワックス",
+          "subtitle4": "クラウン・セレナなど",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "¥",
+          "currency2": "¥",
+          "currency3": "¥",
+          "currency4": "¥",
+          "price1": "00,000",
+          "price2": "00,000",
+          "price3": "00,000",
+          "price4": "86,830",
+          "period1": "税込",
+          "period2": "税込",
+          "period3": "税込",
+          "period4": "税込",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">簡単な説明文が入ります。</li><li class=\"list-group-item\">簡単な説明文が入ります。</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">簡単な説明文が入ります。</li><li class=\"list-group-item\">簡単な説明文が入ります。</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">簡単な説明文が入ります。</li><li class=\"list-group-item\">簡単な説明文が入ります。</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">自賠責保険：25,830円</li><li class=\"list-group-item\">重量税：32,800円</li><li class=\"list-group-item\">印紙・証紙代：1,200円</li><li class=\"list-group-item\">車検基本料：17,200円</li><li class=\"list-group-item\">法定点検料：9,800円</li><li class=\"list-group-item\">事務手数料：0円</li><li class=\"list-group-item\">その他修理費用：お知らせ</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-1v"
+        },
+        {
+          "_params": {
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showForm": false,
+            "showArrow": false,
+            "imageSize": 60,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6985-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "title": "ポリマーワックス",
+          "text": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/477-1000x662.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "form": {
+            "action": "info@mac-agency.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader16",
+          "_anchor": "extHeader16-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1r"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "お問合せ　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。お問合せについてご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14594-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "車検は早めのご予約を",
+            "bgTextStyle": "Lora",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "お問合せ",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "お問合せ",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2h"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">送信する</a>",
+          "form": {
+            "action": "info@mac-agency.com",
+            "alerts": {
+              "success": "お問い合わせいただきましてありがとうございます。"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "お名前"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "電話番号"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "お問い合わせ内容"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-2i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-21"
+        }
+      ]
+    },
+    "company.html": {
+      "settings": {
+        "title": "当社について　デザイン7（想定の自動車整備工場）｜ワクワクホームページ制作プラン　ドキドキホームページ制作プラン",
+        "meta_descr": "このページはワクワクホームページ制作プラン及びドキドキホームページ制作プランのサンプルデザイン7です。当社についてご案内しています。新しく制作するあなたのページの参考にしてください。",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "<html lang=\"ja\">\n<meta name=\"keywords\" content=\"ホームページ,格安,制作,3.9万円,5万円,全国対応,サンプルデザイン\">",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "15px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">様々なサービス</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"syaken.html\">車検</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"car-repair.html\" aria-expanded=\"false\">各種修理</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\" aria-expanded=\"false\">よくあるご質問</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wax.html\">ポリマーワックス</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">当社について</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact.html\">お問い合わせ</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">山田自動車整備工場</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-22"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14594-1000x667.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "車検は早めのご予約を",
+            "bgTextStyle": "Lora",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "100",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.2"
+          },
+          "title": "当社について",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-23"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "会社概要",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-10\">\n      <table class=\"table\">\n  \n  <tbody>\n    <tr>\n      <th class=\"table_width20\">社名</th>\n      <td class=\"text-left\">株式会社東日本自動車整備工場</td>\n      \n    </tr>\n    <tr>\n      <th>所在地</th>\n      <td class=\"text-left\">さいたま市浦和区常盤1-2-3</td>\n      \n    </tr>\n    <tr>\n      <th>代表取締役</th>\n      <td class=\"text-left\">山田太郎</td>\n      \n    </tr>\n  </tbody>\n</table>\n    </div>\n    \n  </div>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 50px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\n.table_width20 {\n  width: 20%;\n}\n.text-left {\n  text-align: left !important;\n}\n",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_params": {},
+          "_anchor": "custom-html-2d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "交通",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51727.60221026994!2d139.6157271211328!3d35.87412611818977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c034b11a9cb9%3A0xfb8140f8804e1a86!2z5Z-8546J55yM44GV44GE44Gf44G-5biC5rWm5ZKM5Yy6!5e0!3m2!1sja!2sjp!4v1561714425855!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2b"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-10\">\n      <table class=\"table\">\n  \n  <tbody>\n    <tr>\n      <th class=\"table_width20\">電車のご利用</th>\n      <td class=\"text-left\">順路が入ります。順路が入ります。順路が入ります。順路が入ります。順路が入ります。</td>\n      \n    </tr>\n    <tr>\n      <th>車のご利用</th>\n      <td class=\"text-left\">順路が入ります。順路が入ります。順路が入ります。順路が入ります。順路が入ります。順路が入ります。</td>\n      \n    </tr>\n    <tr>\n      <th>駐車場について</th>\n      <td class=\"text-left\">お知らせ内容が入ります。お知らせ内容が入ります。お知らせ内容が入ります。</td>\n      \n    </tr>\n  </tbody>\n</table>\n    </div>\n    \n  </div>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 50px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\n.table_width20 {\n  width: 20%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_params": {},
+          "_anchor": "custom-html-2c",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "当社の車検",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pixta-18351205-l-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "早期ご予約特典",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/6496-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "整備箇所は保証付き",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/366-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "6ヶ月後の点検無料",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/117-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "事前お見積り無料",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "早期ご予約特典",
+          "subtitle1": "平素よりの点検が大切です",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "整備箇所は保証付き",
+          "subtitle2": "法定車検を承っています",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "6ヶ月後の点検無料",
+          "subtitle3": "いつもきれいな愛車はポリマーワックスで",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "事前お見積り無料",
+          "subtitle4": "グレードアップのご相談も承っています",
+          "caption4": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "features3-2e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4245-2-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/11-2-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/477-3-600x397.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "愛車にポリマーワックス",
+          "subtitle": "サブタイトルが入ります",
+          "title1": "高圧洗浄",
+          "subtitle1": "サブコピーが入ります",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "シャンプー洗浄",
+          "subtitle2": "サブコピーが入ります",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "精密ワックス",
+          "subtitle3": "サブコピーが入ります",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-24"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1024-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "事故車修理",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "板金塗装",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x402.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "各種修理",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "各種修理",
+          "subtitle": "様々な自動車修理に対応しています。お気軽に音合わせください。",
+          "title1": "事故車修理",
+          "subtitle1": "思わぬ事故修理はお任せください",
+          "caption1": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title2": "板金塗装",
+          "subtitle2": "板金塗装でまるで新車のように",
+          "caption2": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title3": "各種修理",
+          "subtitle3": "様々な修理やチューンナップにも対応しています",
+          "caption3": "簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。簡単な説明文が入ります。",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_anchor": "extFeatures7-2g"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/car-repair.svg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nさいたま市浦和区常盤1-2-3<br><br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: support@your-company.com<br>\nPhone: 000-000-0000<br>Fax:000-000-0000",
+          "text3": "<strong>Links</strong><br><a href=\"syaken.html\">車検</a><br><a href=\"car-repair.html\">各種修理</a><br><a href=\"wax.html\">ポリマーワックス</a><br><a href=\"https://niko-niko-plan.mac-agency.com/\" target=\"_blank\">ニコニコホームページ制作プラン</a><br><a href=\"https://waku-waku-plan.mac-agency.com/\" target=\"_blank\">ワクワクホームページ制作プラン</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-27"
+        }
+      ]
+    }
+  }
+}
